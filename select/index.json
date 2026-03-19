@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "CHEMISTRY \"It Takes Two\" Official Video",
+  "base_artist": "CHEMISTRY",
+  "createdAt": "2026-03-19T14:57:20.484403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "It Takes Two to Tango (This Is for the Girls)",
+      "artist": "Todd Rundgren",
+      "has_synced": true,
+      "path": "select/01_It_Takes_Two_to_Tango_(This_Is_for_the_Girls)_Todd_Rundgren.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It Takes Two To Tango",
+      "artist": "Louis Armstrong",
+      "has_synced": true,
+      "path": "select/02_It_Takes_Two_To_Tango_Louis_Armstrong.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/03_It_Takes_Two_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "It Takes Two (with Tina Turner)",
+      "artist": "Rod Stewart",
+      "has_synced": false,
+      "path": "select/04_It_Takes_Two_(with_Tina_Turner)_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Tina Turner feat. Rod Stewart",
+      "has_synced": true,
+      "path": "select/05_It_Takes_Two_Tina_Turner_feat._Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Tina Turner",
+      "has_synced": true,
+      "path": "select/06_It_Takes_Two_Tina_Turner.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Tina Turner Rod Stewart",
+      "has_synced": false,
+      "path": "select/07_It_Takes_Two_Tina_Turner_Rod_Stewart.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Otis Redding & Carla Thomas",
+      "has_synced": true,
+      "path": "select/08_It_Takes_Two_Otis_Redding_&_Carla_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Otis Redding Carla Thomas",
+      "has_synced": true,
+      "path": "select/09_It_Takes_Two_Otis_Redding_Carla_Thomas.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Rob Base & DJ EZ Rock",
+      "has_synced": false,
+      "path": "select/10_It_Takes_Two_Rob_Base_&_DJ_EZ_Rock.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Rob Base, DJ EZ Rock",
+      "has_synced": true,
+      "path": "select/11_It_Takes_Two_Rob_Base,_DJ_EZ_Rock.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "It takes two",
+      "artist": "Katy Perry",
+      "has_synced": true,
+      "path": "select/12_It_takes_two_Katy_Perry.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Fiji Blue",
+      "has_synced": true,
+      "path": "select/13_It_Takes_Two_Fiji_Blue.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Rob Base & DJ E-Z Rock",
+      "has_synced": true,
+      "path": "select/14_It_Takes_Two_Rob_Base_&_DJ_E-Z_Rock.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "It Takes Two",
+      "artist": "Rob Base & DJ E-Z Rock",
+      "has_synced": false,
+      "path": "select/15_It_Takes_Two_Rob_Base_&_DJ_E-Z_Rock.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It Takes Two",
+      "artist": "CHEMISTRY",
+      "has_synced": false,
+      "path": "select/pl_01_It_Takes_Two_CHEMISTRY.txt"
+    }
+  ]
+}
